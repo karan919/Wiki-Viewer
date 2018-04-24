@@ -1,0 +1,16 @@
+body{
+	background: url(back-image.jpg) no-repeat center center fixed;
+	background-size: cover;
+	color: white;
+	font-size: 2vw;
+	text-align: center;
+}
+input{
+	width: 30%;
+	padding: 5px;
+	font-size: 1em;
+}
+
+input:focus{
+	border:2px solid dodgerblue;
+}
